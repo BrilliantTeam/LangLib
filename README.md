@@ -1,2 +1,3 @@
 # Minecraft LangLib
-24w14a
+- version:` 24w14a `
+- usage: https://raw.githubusercontent.com/BrilliantTeam/LangLib/main/` {LANG_CODE} `.json
